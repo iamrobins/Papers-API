@@ -1,0 +1,210 @@
+{
+    "_id": "67102b000a486d3a0d72f74b",
+    "title": "CHEMISTRY (Theory)",
+    "type": "previous_year",
+    "time": 180,
+    "marks": 70,
+    "params": {
+        "board": "CBSE",
+        "grade": 12,
+        "subject": "Chemistry"
+    },
+    "tags": [
+        "transition elements",
+        "coordination compounds",
+        "organic chemistry",
+        "chemical kinetics",
+        "electrochemistry"
+    ],
+    "chapters": [
+        "p-block elements",
+        "d-block elements",
+        "organic compounds containing halogens",
+        "aldehydes ketones and carboxylic acids",
+        "amines"
+    ],
+    "sections": [
+        {
+            "marks_per_question": 1,
+            "type": "mcq",
+            "questions": [
+                {
+                    "question": "Which one of the following first row transition elements is expected to have the highest third ionization enthalpy?",
+                    "answer": "Vanadium (Z = 23)",
+                    "type": "mcq",
+                    "question_slug": "highest-third-ionization-enthalpy",
+                    "reference_id": "Q1",
+                    "hint": "Consider electronic configuration and stability",
+                    "params": {},
+                    "options": {
+                        "A": "Iron (Z = 26)",
+                        "B": "Manganese (Z = 25)",
+                        "C": "Chromium (Z = 24)",
+                        "D": "Vanadium (Z = 23)"
+                    }
+                },
+                {
+                    "question": "Which of the following compounds will give a ketone on oxidation with chromic anhydride (CrO3)?",
+                    "answer": "CH3CH2CH2OH",
+                    "type": "mcq",
+                    "question_slug": "ketone-on-oxidation",
+                    "reference_id": "Q2",
+                    "hint": "Consider which compound can be oxidized to a ketone.",
+                    "params": {},
+                    "options": {
+                        "A": "(CH3)2CHCH2OH",
+                        "B": "CH3CH2CH2OH",
+                        "C": "(CH3)3COH",
+                        "D": "CH3CH(OH)CH3"
+                    }
+                },
+                {
+                    "question": "Two among the three components of DNA are -D-2-deoxyribose and a heterocyclic base. The third component is :",
+                    "answer": "Phosphoric acid",
+                    "type": "mcq",
+                    "question_slug": "dna-component",
+                    "reference_id": "Q3",
+                    "hint": "Consider the structure of DNA.",
+                    "params": {},
+                    "options": {
+                        "A": "Adenine",
+                        "B": "Phosphoric acid",
+                        "C": "Sulphuric acid",
+                        "D": "Uracil"
+                    }
+                },
+                {
+                    "question": "For an electrolyte undergoing association in a solvent, the v factor :",
+                    "answer": "is always less than one",
+                    "type": "mcq",
+                    "question_slug": "electrolyte-association",
+                    "reference_id": "Q4",
+                    "hint": "Consider the effect of association on the number of particles.",
+                    "params": {},
+                    "options": {
+                        "A": "is always greater than one",
+                        "B": "has negative value",
+                        "C": "has zero value",
+                        "D": "is always less than one"
+                    }
+                },
+                {
+                    "question": "For the reaction X + 2Y → P, the differential form equation of the rate law is :",
+                    "answer": "d[P]/dt = k[X][Y]²",
+                    "type": "mcq",
+                    "question_slug": "rate-law-differential-form",
+                    "reference_id": "Q5",
+                    "hint": "Consider the stoichiometry and rate law.",
+                    "params": {},
+                    "options": {
+                        "A": "2d[P]/dt = d[X]/dt + d[Y]/dt",
+                        "B": "d[P]/dt = -d[X]/dt - 2d[Y]/dt",
+                        "C": "d[P]/dt = -d[X]/dt = -½d[Y]/dt",
+                        "D": "d[P]/dt = k[X][Y]²"
+                    }
+                },
+                {
+                    "question": "The compound which undergoes SN1 reaction most rapidly is :",
+                    "answer": " (CH3)3C-Cl",
+                    "type": "mcq",
+                    "question_slug": "sn1-reaction",
+                    "reference_id": "Q6",
+                    "hint": "Consider carbocation stability.",
+                    "params": {},
+                    "options": {}
+                },
+                {
+                    "question": "Acetic acid reacts with PCl5 to give :",
+                    "answer": "CH3COCl",
+                    "type": "mcq",
+                    "question_slug": "acetic-acid-pCl5-reaction",
+                    "reference_id": "Q7",
+                    "hint": "Consider the reaction of carboxylic acids with PCl5.",
+                    "params": {},
+                    "options": {
+                        "A": "ClCH2COCl",
+                        "B": "ClCH2COOH",
+                        "C": "CH3COCl",
+                        "D": "CCl3COOH"
+                    }
+                },
+                {
+                    "question": "The formation of cyanohydrin from an aldehyde is an example of :",
+                    "answer": "nucleophilic addition",
+                    "type": "mcq",
+                    "question_slug": "cyanohydrin-formation",
+                    "reference_id": "Q8",
+                    "hint": "Consider the mechanism of cyanohydrin formation.",
+                    "params": {},
+                    "options": {
+                        "A": "nucleophilic addition",
+                        "B": "electrophilic addition",
+                        "C": "nucleophilic substitution",
+                        "D": "electrophilic substitution"
+                    }
+                },
+                {
+                    "question": "In the Arrhenius equation, when log k is plotted against 1/T, a straight line is obtained whose :",
+                    "answer": "slope is -Ea/2.303R and intercept is log A",
+                    "type": "mcq",
+                    "question_slug": "arrhenius-equation-plot",
+                    "reference_id": "Q9",
+                    "hint": "Consider the Arrhenius equation and its logarithmic form.",
+                    "params": {},
+                    "options": {
+                        "A": "slope is Ea/R and intercept is A",
+                        "B": "slope is A and intercept is Ea/R",
+                        "C": "slope is Ea/RT and intercept is log A",
+                        "D": "slope is -Ea/2.303R and intercept is log A"
+                    }
+                },
+                {
+                    "question": "The reaction of an alkyl halide with sodium alkoxide forming ether is known as :",
+                    "answer": "Williamson synthesis",
+                    "type": "mcq",
+                    "question_slug": "alkyl-halide-sodium-alkoxide-reaction",
+                    "reference_id": "Q10",
+                    "hint": "Consider the Williamson ether synthesis.",
+                    "params": {},
+                    "options": {
+                        "A": "Wurtz reaction",
+                        "B": "Reimer-Tiemann reaction",
+                        "C": "Williamson synthesis",
+                        "D": "Kolbe reaction"
+                    }
+                },
+                {
+                    "question": "The correct order of the ease of dehydration of the following alcohols by the action of conc. H2SO4 is :",
+                    "answer": "(CH3)3COH < (CH3)2CHOH < CH3CH2OH",
+                    "type": "mcq",
+                    "question_slug": "alcohol-dehydration",
+                    "reference_id": "Q11",
+                    "hint": "Consider carbocation stability.",
+                    "params": {},
+                    "options": {
+                        "A": "(CH3)3COH > (CH3)2CHOH > CH3CH2OH",
+                        "B": "(CH3)2CHOH > CH3CH2OH > (CH3)3COH",
+                        "C": "CH3CH2OH > (CH3)2CHOH > (CH3)3COH",
+                        "D": "(CH3)2CHOH > (CH3)3COH > CH3CH2OH"
+                    }
+                },
+                {
+                    "question": "Which functional groups of glucose interact to form cyclic hemiacetal leading to pyranose structure?",
+                    "answer": "Aldehyde group and hydroxyl group at C5",
+                    "type": "mcq",
+                    "question_slug": "glucose-cyclic-hemiacetal",
+                    "reference_id": "Q12",
+                    "hint": "Consider the structure of glucose and the formation of hemiacetals.",
+                    "params": {},
+                    "options": {
+                        "A": "Aldehyde group and hydroxyl group at C4",
+                        "B": "Aldehyde group and hydroxyl group at C5",
+                        "C": "Ketone group and hydroxyl group at C4",
+                        "D": "Ketone group and hydroxyl group at C5"
+                    }
+                }
+            ],
+            "credits": "CBSE India"
+        }
+    ]
+}

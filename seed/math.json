@@ -1,0 +1,433 @@
+{
+  "_id": "5f9e5f0a0df890b3b6b3ef5",
+  "title": "CBSE Additional Practice Questions Mathematics Standard (041) Class X | 2023-24",
+  "type": "practice",
+  "time": 180,
+  "marks": 80,
+  "params": {
+    "board": "CBSE",
+    "grade": 10,
+    "subject": "Mathematics"
+  },
+  "tags": [
+    "algebra",
+    "geometry",
+    "trigonometry",
+    "statistics",
+    "coordinate geometry"
+  ],
+  "chapters": [
+    "Polynomial",
+    "Linear Equations",
+    "Quadratic Equations",
+    "Circles",
+    "Triangles",
+    "Coordinate Geometry",
+    "Trigonometry",
+    "Statistics",
+    "Surface Areas and Volumes",
+    "Probability"
+  ],
+  "sections": [
+    {
+      "marks_per_question": 1,
+      "type": "mcq",
+      "questions": [
+        {
+          "question": "Which of the following could be the graph of the polynomial? (x - 1)²(x + 2)?",
+          "answer": "(a)",
+          "type": "mcq",
+          "question_slug": "polynomial-graph",
+          "reference_id": "A001",
+          "hint": "The graph should touch the x-axis at x = 1 and cross at x = -2.",
+          "params": {}
+        },
+        {
+          "question": "The lines k₁, k₂ and k₃ represent three different equations as shown in the graph. The solution of the equations represented by the lines k₁ and k₃ is x = 3 and y = 0 while the solution of the equations represented by the lines k₂ and k₃ is x = 4 and y = 1. Which of these is the equation of the line k₃?",
+          "answer": "(a) x - y = 3",
+          "type": "mcq",
+          "question_slug": "linear-equations-graph",
+          "reference_id": "A002",
+          "hint": "Find the equation of the line that passes through (3, 0) and (4, 1).",
+          "params": {}
+        },
+        {
+          "question": "What is/are the roots of 3x² = 6x?",
+          "answer": "(d) 0 and 2",
+          "type": "mcq",
+          "question_slug": "quadratic-equation-roots",
+          "reference_id": "A003",
+          "hint": "Solve the quadratic equation by factoring.",
+          "params": {}
+        },
+        {
+          "question": "The coordinates of the centre of the circle, O, and a point on the circle, N, are shown. What is the radius of the circle?",
+          "answer": "(a) 10.4 units",
+          "type": "mcq",
+          "question_slug": "circle-radius",
+          "reference_id": "A004",
+          "hint": "Use the distance formula to find the distance between O and N.",
+          "params": {}
+        },
+        {
+          "question": "APQR is shown. ST is drawn such that ∠PRQ = ∠STQ. If ST divides QR in a ratio of 2:3, then what is the length of ST?",
+          "answer": "(c) 12 cm",
+          "type": "mcq",
+          "question_slug": "similar-triangles",
+          "reference_id": "A005",
+          "hint": "Use the property of similar triangles.",
+          "params": {}
+        },
+        {
+          "question": "Two scalene triangles are given. Anas: △PQR is similar to △CBA. Rishi: △PQR is congruent to △CBA. Which of them is/are correct?",
+          "answer": "(a) Only Anas",
+          "type": "mcq",
+          "question_slug": "similar-triangles",
+          "reference_id": "A006",
+          "hint": "Check the ratios of corresponding sides of the triangles.",
+          "params": {}
+        },
+        {
+          "question": "Harsha made a wind chime. If all of the rods are straight and not swaying, then what is the length of Rod P?",
+          "answer": "(a) 69/7 cm",
+          "type": "mcq",
+          "question_slug": "geometry",
+          "reference_id": "A007",
+          "hint": "Use similar triangles.",
+          "params": {}
+        },
+        {
+          "question": "Two circles with centres O and N touch each other at point P. What is the radius of the circle with centre N?",
+          "answer": "(b) 9 cm",
+          "type": "mcq",
+          "question_slug": "circles",
+          "reference_id": "A008",
+          "hint": "Use the property of tangents.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a circle with centre O. If QR = 12 cm and the radius of the circle is 7 cm, what is the perimeter of the polygon PQTRSO?",
+          "answer": "(b) 38 cm",
+          "type": "mcq",
+          "question_slug": "circle-perimeter",
+          "reference_id": "A009",
+          "hint": "Use the property of tangents.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a table with values of cosecant and secant of different angles. What are the values of P and Q respectively?",
+          "answer": "(b) 1.1 and 1.7",
+          "type": "mcq",
+          "question_slug": "trigonometry",
+          "reference_id": "A010",
+          "hint": "Use trigonometric identities.",
+          "params": {}
+        },
+        {
+          "question": "In the figure, PQRS is a square. What is the value of sin∠SPT?",
+          "answer": "(a) 8/17",
+          "type": "mcq",
+          "question_slug": "trigonometry",
+          "reference_id": "A011",
+          "hint": "Use trigonometric ratios.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a solved trigonometric problem. In which step is there an error in solving?",
+          "answer": "(c) Step 3",
+          "type": "mcq",
+          "question_slug": "trigonometry",
+          "reference_id": "A012",
+          "hint": "Check each step for errors.",
+          "params": {}
+        },
+        {
+          "question": "A circle with radius 6 cm is shown. What is the length of the circle's minor arc?",
+          "answer": "(a) 16π/3 cm",
+          "type": "mcq",
+          "question_slug": "circle-arc-length",
+          "reference_id": "A013",
+          "hint": "Use the formula for the length of an arc.",
+          "params": {}
+        },
+        {
+          "question": "A regular pentagon is inscribed in a circle. What is the area of the shaded part of the circle?",
+          "answer": "(b) 4π cm²",
+          "type": "mcq",
+          "question_slug": "circle-area",
+          "reference_id": "A014",
+          "hint": "Use the formula for the area of a circle and a sector.",
+          "params": {}
+        },
+        {
+          "question": "A cuboid is filled with water. Which of these represents the increase in the height of water?",
+          "answer": "(b) R/P units",
+          "type": "mcq",
+          "question_slug": "volume",
+          "reference_id": "A015",
+          "hint": "Use the formula for the volume of a cuboid and a sphere.",
+          "params": {}
+        },
+        {
+          "question": "Sweety, Nitesh, and Ashraf visited a hospital. Who among the three friends have a blood pressure reading that falls in the modal class?",
+          "answer": "(b) Nitesh",
+          "type": "mcq",
+          "question_slug": "statistics",
+          "reference_id": "A016",
+          "hint": "Find the modal class from the given data.",
+          "params": {}
+        },
+        {
+          "question": "The table depicts the weight of students. If there are no students with the same weight as median weight, how many students weigh between the range of 37 - 40 kgs?",
+          "answer": "(a) 5",
+          "type": "mcq",
+          "question_slug": "statistics",
+          "reference_id": "A017",
+          "hint": "Find the median weight and then count the number of students in the range 37-40.",
+          "params": {}
+        },
+        {
+          "question": "Ginny flipped a fair coin. What is the probability of getting heads in the next coin flip?",
+          "answer": "(c) 0.5",
+          "type": "mcq",
+          "question_slug": "probability",
+          "reference_id": "A018",
+          "hint": "The probability of getting heads is independent of previous flips.",
+          "params": {}
+        },
+        {
+          "question": "A number q is prime factorised. Assertion (A): q is definitely an odd number. Reason (R): 3² × 7² is an odd number. Which option correctly describes statements (A) and (R)?",
+          "answer": "(d) (A) is false but (R) is true",
+          "type": "mcq",
+          "question_slug": "number-theory",
+          "reference_id": "A019",
+          "hint": "Check the truth values of both Assertion and Reason.",
+          "params": {}
+        },
+        {
+          "question": "P(-2, 5) and Q(2, -1) are two points. Assertion (A): The midpoint (0, 2) is the only point equidistant from P and Q. Reason (R): There are many points (x, y) where (x + 2)² + (y - 5)² = (x - 2)² + (y + 1)² are equidistant from P and Q. Which option correctly describes statements (A) and (R)?",
+          "answer": "(c) (A) is true but (R) is false",
+          "type": "mcq",
+          "question_slug": "coordinate-geometry",
+          "reference_id": "A020",
+          "hint": "Check if the midpoint is equidistant and if there are other points that are equidistant.",
+          "params": {}
+        }
+      ]
+    },
+    {
+      "marks_per_question": 2,
+      "type": "vsa",
+      "questions": [
+        {
+          "question": "Check whether the statement below is true or false. “The square root of every composite number is rational.” Justify your answer by proving rationality or irrationality as applicable.",
+          "answer": "False. For example, √8 is irrational.",
+          "type": "vsa",
+          "question_slug": "rational-irrational",
+          "reference_id": "B001",
+          "hint": "A composite number may have an irrational square root.",
+          "params": {}
+        },
+        {
+          "question": "Kimaya and Heena started walking. If Heena took 1 minute more than Kimaya to reach her destination, find the time taken by Heena to reach the badminton court. Show your work.",
+          "answer": "5 minutes",
+          "type": "vsa",
+          "question_slug": "speed-time-distance",
+          "reference_id": "B002",
+          "hint": "Use the formula: time = distance / speed.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a circle. Based on the above information, evaluate whether the following statement is true or false. Atleast one pair of opposite sides of AEDB is parallel. Justify your answer.",
+          "answer": "True. AB and ED are parallel.",
+          "type": "vsa",
+          "question_slug": "geometry",
+          "reference_id": "B003",
+          "hint": "Use the properties of tangents to a circle.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a right circular cone. Find the angle which the slant height makes with the base radius. Show your work. (Note: Take π as 3, √2 as 1.4 and √3 as 1.7.)",
+          "answer": "60 degrees",
+          "type": "vsa",
+          "question_slug": "cone",
+          "reference_id": "B004",
+          "hint": "Use trigonometry to find the angle.",
+          "params": {}
+        },
+        {
+          "question": "Shown below are two right triangles. Find the length of the unknown side marked '?'. Show your work.",
+          "answer": "2√3 cm",
+          "type": "vsa",
+          "question_slug": "right-triangle",
+          "reference_id": "B005",
+          "hint": "Use Pythagoras theorem and trigonometric ratios.",
+          "params": {}
+        }
+      ]
+    },
+    {
+      "marks_per_question": 3,
+      "type": "sa",
+      "questions": [
+        {
+          "question": "Prime factorisation of three numbers A, B and C is given. Find A, B and C. Show your work.",
+          "answer": "A = 24 x 3 x 5, B = 22 x 3 x 52, C = 2 x 32 x 5",
+          "type": "sa",
+          "question_slug": "number-theory",
+          "reference_id": "C001",
+          "hint": "Use the given information to find the values of p, q, and r.",
+          "params": {}
+        },
+        {
+          "question": "Riddhi throws a stone. i) The above graph is represented by a polynomial. Find the coordinates of P and Q. ii) If one unit on the graph represents 25 metres, how far from Riddhi does the stone land? Show your work.",
+          "answer": "i) P(-2, 0), Q(3, 0). ii) 125 metres",
+          "type": "sa",
+          "question_slug": "polynomial-graph",
+          "reference_id": "C002",
+          "hint": "Use the properties of polynomials to find the coordinates of P and Q.",
+          "params": {}
+        },
+        {
+          "question": "Given below is a pair of linear equations. Find at least one pair of the possible values of m and n, if exists, for which the above pair of linear equations has: i) a unique solution ii) infinitely many solutions iii) no solution. Show your work.",
+          "answer": "m = 1, n = 2; m = 2, n = 4; m = 2, n ≠ 4",
+          "type": "sa",
+          "question_slug": "linear-equations",
+          "reference_id": "C003",
+          "hint": "Use the conditions for unique solution, infinitely many solutions, and no solution.",
+          "params": {}
+        },
+        {
+          "question": "(6, 0) and (0, 2) are two of the points of intersections of two lines. i) How many points of intersections does the pair of linear equations have in total? Justify your answer. ii) Find the equation that represents one of the lines of the above pair. Show your work.",
+          "answer": "i) Infinitely many. ii) x + 3y = 6",
+          "type": "sa",
+          "question_slug": "linear-equations",
+          "reference_id": "C004",
+          "hint": "Use the concept of intersecting lines.",
+          "params": {}
+        },
+        {
+          "question": "In the given figure, Show that SQ is a tangent to the circle.",
+          "answer": "Using similar triangles and the tangent-secant theorem.",
+          "type": "sa",
+          "question_slug": "geometry",
+          "reference_id": "C005",
+          "hint": "Use the properties of tangents and secants.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a circle. If OA ⊥ OC, then show that quadrilateral OABC is a square.",
+          "answer": "Using properties of tangents and Pythagoras theorem.",
+          "type": "sa",
+          "question_slug": "geometry",
+          "reference_id": "C006",
+          "hint": "Show that all sides are equal and angles are 90 degrees.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a semicircle. Make necessary constructions and show that: tan θ = sin θ / (1 + cos θ)",
+          "answer": "Using trigonometric identities.",
+          "type": "sa",
+          "question_slug": "trigonometry",
+          "reference_id": "C007",
+          "hint": "Use trigonometric identities.",
+          "params": {}
+        },
+        {
+          "question": "Naima is playing a game. Which option should Naima choose so that her chances of winning a prize is higher? Show your work.",
+          "answer": "Option 2",
+          "type": "sa",
+          "question_slug": "probability",
+          "reference_id": "C008",
+          "hint": "Calculate the probability of winning for each option.",
+          "params": {}
+        }
+      ]
+    },
+    {
+      "marks_per_question": 5,
+      "type": "la",
+      "questions": [
+        {
+          "question": "Manu and Aiza are competing in a cycling race. Find the time taken by Manu to finish the race. Show your work.",
+          "answer": "5 hours",
+          "type": "la",
+          "question_slug": "speed-time-distance",
+          "reference_id": "D001",
+          "hint": "Let Manu's speed be x km/hr. Then Aiza's speed is (x+10) km/hr.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a cuboid with water. If the height of water in orientation II is half of that in orientation I, then find the heights of water in both orientations. Show your work.",
+          "answer": "Orientation I: 10 cm, Orientation II: 5 cm",
+          "type": "la",
+          "question_slug": "volume",
+          "reference_id": "D002",
+          "hint": "The volume of water remains the same in both orientations.",
+          "params": {}
+        },
+        {
+          "question": "In the figure, △ABC is a right-angled triangle. Find the area of △PQR. Show your work.",
+          "answer": "60 cm²",
+          "type": "la",
+          "question_slug": "triangles",
+          "reference_id": "D003",
+          "hint": "Use similar triangles to find the lengths of PQ and QR.",
+          "params": {}
+        },
+        {
+          "question": "Two rectangular sheets are folded to make hollow right circular cylindrical pipes. i) Find the difference in the curved surface areas of the two cylinders. ii) Find the ratio of the volumes of the two cylinders formed. Show your work. (Note: Use π as 22/7. Assume that the sheets have negligible thickness.)",
+          "answer": "i) 155 cm². ii) 45/155",
+          "type": "la",
+          "question_slug": "cylinders",
+          "reference_id": "D004",
+          "hint": "Use the formulas for the curved surface area and volume of a cylinder.",
+          "params": {}
+        },
+        {
+          "question": "Shown below is a cylindrical can placed in a cubical container. i) How many of these cans can be packed in the container such that no more cans are fitted? ii) If the capacity of one can is 539 ml, find the internal volume of the cubical container. Show your work. (Note: Take π as 22/7)",
+          "answer": "i) 1. ii) 2156 cm³",
+          "type": "la",
+          "question_slug": "volume",
+          "reference_id": "D005",
+          "hint": "Use the formulas for the volume of a cylinder and a cube.",
+          "params": {}
+        }
+      ]
+    },
+    {
+      "marks_per_question": 4,
+      "type": "case_study",
+      "questions": [
+        {
+          "question": "Answer the questions based on the given information. An interior designer hired two painters. i) How much money did Manan get for his 25th painting? Show your work. ii) How much money did Bhima get in all? Show your work. iii) If both Manan and Bhima make paintings at the same pace, find the first painting for which Bhima will get more money than Manan. Show your steps.",
+          "answer": "i) 10800. ii) 120000. iii) 11th painting",
+          "type": "case_study",
+          "question_slug": "arithmetic-progression",
+          "reference_id": "E001",
+          "hint": "Use the formula for the nth term of an arithmetic progression.",
+          "params": {}
+        },
+        {
+          "question": "Sana's friend hired Manan and Bhima. How many paintings did Aarti get each painter to make? Show your work.",
+          "answer": "20",
+          "type": "case_study",
+          "question_slug": "arithmetic-progression",
+          "reference_id": "E002",
+          "hint": "Let x be the number of paintings.",
+          "params": {}
+        },
+        {
+          "question": "In the game of archery, i) After shooting two arrows, Rohan scored 25 points. Write one set of coordinates for each arrow that landed on the target. ii) If one player's arrow lands on (2, 2.5), how many points will be awarded to the player? Show your work. iii) One of Rohan's arrow landed on (1.2, 1.6). Find one possible pair of coordinates of the second arrow's landing mark. Show your work. iv) An arrow landed on the boundary and is worth 20 points. Find all such coordinates. Show your steps.",
+          "answer": "i) (0, 0), (1, 2). ii) 10 points. iii) (0, 0). iv) (2, -2), (-2, 2)",
+          "type": "case_study",
+          "question_slug": "coordinate-geometry",
+          "reference_id": "E003",
+          "hint": "Use the distance formula to find the coordinates of the arrows.",
+          "params": {}
+        }
+      ]
+    }
+  ],
+  "credits": "CBSE India"
+}
