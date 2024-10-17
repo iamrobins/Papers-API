@@ -64,10 +64,15 @@ async def papers(paper_id: str, paper: SamplePaperModel):
         paper_object_id = ObjectId(paper_id)
     except Exception as e:
         raise HTTPException(status_code=400, detail="Invalid paper ID format.")
+    
     paper = jsonable_encoder(paper)
     updated_paper = await paper_collection.update_one({"_id": paper_object_id}, {"$set": paper})
+
     if updated_paper.matched_count == 0:
         raise HTTPException(status_code=404, detail="Paper not found.")
+
+    await asyncio.to_thread(redis_client.delete, paper_id)
+
     return Response(status_code=204)
 
 @router.delete("/papers/{paper_id}")
@@ -79,4 +84,6 @@ async def papers(paper_id: str):
     deleted_paper = await paper_collection.delete_one({"_id": paper_object_id})
     if deleted_paper.deleted_count == 0:
         raise HTTPException(status_code=404, detail="Paper not found.")
+    
+    await asyncio.to_thread(redis_client.delete, paper_id)
     return Response(status_code=204)

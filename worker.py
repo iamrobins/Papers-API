@@ -31,26 +31,6 @@ def process_text_extraction(self, file_type, file_data: bytes):
         print(f"Error processing task: {e}")
         return None
 
-@celery.task(bind=True)
-def process_text_task(self, text_data: bytes):
-    try:
-        sample_paper = generate_sample_paper_from_text(text_data)
-
-        def syncfunc():
-            async def asyncfunc():
-                inserted_id = await insert_sample_paper_async(sample_paper)
-                return inserted_id
-
-            return asyncio.run(asyncfunc())
-
-        inserted_id = syncfunc()
-
-        return str(inserted_id)
-
-    except Exception as e:
-        print(f"Error processing task: {e}")
-        return None
-
 celery.conf.update(task_routes={
     'worker.process_pdf_task': {'queue': 'celery'}
 })
