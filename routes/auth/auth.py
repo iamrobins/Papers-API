@@ -23,7 +23,6 @@ def get_user(user):
 
 @router.get("/profile")
 async def profile(request: Request):
-    print(request)
     return {"_id": request.state._id}
 
 @router.post("/login")
